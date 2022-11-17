@@ -116,7 +116,9 @@ np.mean(predict(res.x,X)==y)
 ## Output:
 
 ![51](https://user-images.githubusercontent.com/100425381/202345288-12546b76-2029-405d-897b-8ac7a1574446.png)
+
 ![52](https://user-images.githubusercontent.com/100425381/202345295-2c5b6aaa-2d70-40e4-a8f4-d7f9667ae557.png)
+
 ![53](https://user-images.githubusercontent.com/100425381/202345297-2c22849c-62cd-44af-89f0-d3b92f828ffe.png)
 
 
