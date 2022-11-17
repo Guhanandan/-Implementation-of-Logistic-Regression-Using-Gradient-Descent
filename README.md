@@ -12,8 +12,11 @@ Anaconda – Python 3.7 Installation / Jupyter notebook
 ## Algorithm
 
 1.Import the required libraries. Define a function for costFunction,cost and gradient.
+
 2.Load the dataset.
+
 3.Define X and Y array.
+
 4.Plot the decision boundary and Predict the Regression value.
 
 ## Program:
